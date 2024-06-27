@@ -20,12 +20,14 @@
    
   У каждого выражения в PHP один из следующих встроенных типов в зависимости от его значения:
   
-  null
-  bool
-  int
-  float (floating-point number)
-  string
-  array
-  object
-  callable
-  resource
+  - null
+  - bool
+  - int
+  - float (floating-point number)
+  - string
+  - array
+  - object
+  - callable
+  - resource
+
+  [из документации](https://www.php.net/manual/ru/language.types.intro.php)
