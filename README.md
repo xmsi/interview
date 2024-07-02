@@ -31,3 +31,9 @@
   - resource
 
   [из документации](https://www.php.net/manual/ru/language.types.intro.php)
+
+## References
+
+- [My 10 “Clean” Code Principles](https://www.youtube.com/watch?v=wSDyiEjhp8k)
+- [The 3 Laws of Writing Bug Free Code](https://www.youtube.com/watch?v=YMPlQCYp7xg)
+- [Code optiomisation](https://www.youtube.com/watch?v=E7_gBwejLLw)
