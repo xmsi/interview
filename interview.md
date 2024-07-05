@@ -32,6 +32,10 @@
 
   [из документации](https://www.php.net/manual/ru/language.types.intro.php)
 
+***4. Нельзя делать логику в параметрах класса***\
+``private $users = User::all()``\
+``PHP Fatal error:  Constant expression contains invalid operations``
+
 ## References
 
 - [My 10 “Clean” Code Principles](https://www.youtube.com/watch?v=wSDyiEjhp8k)
